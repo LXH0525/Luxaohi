@@ -22,14 +22,6 @@
 ## 已知事项
 - **环境兼容性提示**：可能出现中文显示以及命令无法正常执行问题，我们正在想办法解决。
 
-## 项目结构
-```
-Luxaohi/
-├── Luxaohi-Code Interpreter.cpp  # 主程序(854行C++)
-├── .gitignore                    # 忽略编译文件
-└── README.md                     # 项目说明
-```
-
 ## 贡献
 欢迎提交Issue和Pull Request！特别是：
 - 中文编码问题的解决方案
