@@ -1,41 +1,32 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+#编译输出文件
+*.exe
 *.o
 *.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
+*.out
 *.ilk
-
-# Debugger Files
 *.pdb
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+#DEV-C++ 特定文件
+*.cbp
+*.layout
+*.depend
+*.workspace
 
-# Fortran module files
-*.mod
-*.smod
+#编译目录
+Debug/
+Release/
+bin/
+obj/
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+#系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
 
-# Executables
-*.exe
-*.out
-*.app
+#备份文件
+*.bak
+*.tmp
+*~
 
-# debug information files
-*.dwo
+#日志文件
+*.log
