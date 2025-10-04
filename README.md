@@ -39,4 +39,6 @@ Luxaohi/
 ## 作者
 **ryun** - [B站主页](https://space.bilibili.com/3546663501171006)
 
+[**下载Luxaohi最新版**](https://github.com/LXH0525/Luxaohi/releases/latest)
+
 > 如果你不是中国人但对本项目感兴趣，太棒了！这说明Luxaohi正在走向世界！
