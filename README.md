@@ -30,8 +30,12 @@
 - 文档和改进建议
 
 ## 作者
-**ryun** - [B站主页](https://space.bilibili.com/3546663501171006)
+**ryun** - [bilibili主页](https://space.bilibili.com/3546663501171006)
 
+## 许可证
+本项目采用 [CC BY-ND 4.0](LICENSE) 协议，允许个人使用但禁止衍生作品。
+
+## 下载
 [**下载Luxaohi最新版**](https://github.com/LXH0525/Luxaohi/releases/latest)
 
 > 如果你不是中国人但对本项目感兴趣，太棒了！这说明Luxaohi正在走向世界！
