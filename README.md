@@ -30,8 +30,8 @@
 - 文档和改进建议
 
 ## 作者
-**ryun** - [bilibili主页](https://space.bilibili.com/3546663501171006)
-**liyuAlex(Alex)**
+- **ryun** - [bilibili主页](https://space.bilibili.com/3546663501171006)
+- **liyuAlex(Alex)**
 ## 许可证
 本项目采用 [CC BY-ND 4.0](LICENSE) 协议，允许个人使用但禁止衍生作品。
 
