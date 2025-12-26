@@ -1,18 +1,21 @@
-# LICENSE
+MIT License
 
-Luxaohi（刘小黑）编程语言 使用协议
+Copyright (c) 2025 LXH0525
 
-采用 Creative Commons Attribution-NoDerivatives 4.0 International 许可协议。
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-查看此许可协议的完整内容，访问：
-https://creativecommons.org/licenses/by-nd/4.0/
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## 说明 
-
-虽然Creative Commons协议通常用于文档、艺术等作品，
-但本项目特意选择CC BY-ND 4.0协议以便：
-- 保护项目的设计完整性和原始理念
-- 允许个人学习、使用和分享
-- 禁止创建衍生作品或修改版本
-
-版权所有 (c) 2025 LXH0525
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
