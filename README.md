@@ -30,7 +30,6 @@
 
 ## 作者
 - **LXH0525(ryun)** - [bilibili主页](https://space.bilibili.com/3546663501171006)
-- **liyuAlex(Alex)(已停止参与更新于2025‎年‎7‎月‎31‎日后)**
 ## 许可证
 本项目采用 [MIT License](LICENSE) 协议，允许自由使用、修改与分发，只需保留原始版权声明即可。
 
