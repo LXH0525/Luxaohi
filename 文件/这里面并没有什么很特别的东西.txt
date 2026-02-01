@@ -1,5 +1,5 @@
 好吧，你愿意看就看吧，这里的都是ryun写的，目前是的...
-
+Note: Unless otherwise specified, English content in this document is AI-translated from Chinese and may contain inaccuracies. Thank you for your understanding.
 
 2025/10/4
 luxaohi(luxaohi其实是有中文名称的，是叫：刘小黑)可以正常处理1000层如果-那么-否则嵌套判断，但是1500不行。
@@ -140,3 +140,8 @@ a+b
 -----------------------------------------------------------------------------------------------------------------------------------
 
 上周就是上面那些了，还可以？
+
+
+2026/2/1
+准备在YouTube发视频宣传了，为了满足英文者的好奇，之后我继续写这个文件，将会附上英文翻译版本。
+I'm preparing to post a video on YouTube for promotion. To satisfy the curiosity of English-speaking viewers, I will continue working on this document and include an English translation version alongside it.
