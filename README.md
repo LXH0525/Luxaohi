@@ -1,7 +1,7 @@
 # Luxaohi — 中文编程语言
 > 中国人也要用母语编程！
----
-> 英文版文档-English version：[转至-Go to](README-EN.md)
+
+> 英文版文档 | English version: [README-EN.md](README-EN.md)
 
 ## 特性
 - **全中文关键字** - 如果、那么、变量、喵叫。
