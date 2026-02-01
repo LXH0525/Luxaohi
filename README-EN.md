@@ -39,14 +39,14 @@ Thanks to everyone who has helped shape Luxaohi! You can view the full list of c
 - **Version Directory**: Browse all releases and their resources in the `Luxaohi-Versions` folder.
 
 ## Author
-LXH0525 (ryun) — [Bilibili Homepage](https://space.bilibili.com/) (placeholder; replace with actual URL)
+LXH0525 (ryun) — [Bilibili Homepage](https://space.bilibili.com/3546663501171006)
 
 ## License
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute the software, as long as the original copyright and license notice is preserved.
 
 ## Download
 Get the latest version of Luxaohi here:  
-[Download Latest Version](/) (replace with actual release link)
+[Download Latest Version](https://github.com/LXH0525/Luxaohi/releases/latest)
 
 ---
 > If you’re not Chinese but still interested in Luxaohi, that’s wonderful — it means the language is reaching a global audience! We welcome international developers to explore, experiment, and contribute.
