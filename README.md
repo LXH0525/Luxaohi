@@ -1,5 +1,6 @@
 # Luxaohi — 中文编程语言
 > 中国人也要用母语编程！
+---
 > 英文版文档-English version：[转至-Go to](README-EN.md)
 
 ## 特性
