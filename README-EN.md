@@ -1,5 +1,6 @@
 # Luxaohi — A Chinese Programming Language
 *Note: This document is AI-translated from Chinese. Minor inaccuracies may exist; thank you for your understanding.*
+> Chinese version | 中文版文档: [README-CN.md](README-CN.md)
 
 Luxaohi is a programming language built for native Chinese speakers, letting people code in their mother tongue instead of relying only on English keywords.
 
