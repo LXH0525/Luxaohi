@@ -40,6 +40,7 @@ Thanks to everyone who has helped shape Luxaohi! You can view the full list of c
 
 ## Author
 LXH0525 (ryun) — [Bilibili Homepage](https://space.bilibili.com/3546663501171006)
+Luxaohi (ryun) — [YouTube Channel](https://youtube.com/@luxaohi?si=XHyk6dv1rH_yAJms)
 
 ## License
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute the software, as long as the original copyright and license notice is preserved.
