@@ -1,32 +1,37 @@
-#编译输出文件
-*.exe
-*.o
-*.obj
-*.out
-*.ilk
-*.pdb
-
-#DEV-C++ 特定文件
-*.cbp
-*.layout
-*.depend
-*.workspace
-
-#编译目录
-Debug/
-Release/
+# Visual Studio 编译输出 - Visual Studio build output
+x64/
+x86/
 bin/
 obj/
+Debug/
+Release/
+*.dll
+*.obj
+*.lib
+*.pdb
+*.ilk
+*.exe
+*.out
+*.o
 
-#系统文件
-.DS_Store
-Thumbs.db
-desktop.ini
+# Visual Studio 配置文件 - Visual Studio configuration file
+.vs/
+*.suo
+*.user
+*.userprefs
 
-#备份文件
+# 备份文件 - Backup files
 *.bak
 *.tmp
 *~
 
-#日志文件
+# 其他文件 - Other files
 *.log
+*.cbp
+*.cache
+*.layout
+*.depend
+.DS_Store
+Thumbs.db
+*.workspace
+desktop.ini
