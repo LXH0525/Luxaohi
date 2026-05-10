@@ -43,8 +43,8 @@
 
 
 ## 🧭指路牌-Guide
-- 版本文档(在"Luxaohi-版本"中进一步打开自己下载的版本的文件夹，下载文档使用即可)[前往"Luxaohi-版本"文件夹](Luxaohi-版本)
-- Version documentation (open the folder corresponding to your downloaded version inside "Luxaohi-Versions" and use the documentation)[Go to "Luxaohi-Versions" folder](Luxaohi-版本)
+- 版本文档(在"Luxaohi-版本文档"中进一步打开自己下载的版本的文件夹，下载文档使用即可)[前往"Luxaohi-版本文档"文件夹](文件/Luxaohi-版本文档)
+- Version documentation (open the folder corresponding to your downloaded version inside "Luxaohi-Version documentation" and use the documentation)[Go to "Luxaohi-Version documentation" folder](文件/Luxaohi-版本文档)
 
 
 ## ✏️作者-Author
