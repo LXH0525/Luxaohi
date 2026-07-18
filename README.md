@@ -1,3 +1,5 @@
+# ⚠️该项目已归档，不再更新，请移步至：[[Rua]](https://github.com/LXH0525/Rua)
+
 # ✨Luxaohi — 中文编程语言 | A Chinese Programming Language
 > 中国人也许可以试试用母语编程吧?-Maybe Chinese people can try programming in their native language?
 
